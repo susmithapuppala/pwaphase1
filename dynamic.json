@@ -1,0 +1,54 @@
+{
+	"profile":{
+		"img":"images/download.jpg",
+		"name":"p.susmitha",
+		"roll":"1134699344",
+		"institution":"pragati",
+		"place":"vizag"
+	},
+	"career": {
+		"info":"to secure a challenging position where i can explore my talents"
+
+	},
+	"education" : [
+	{
+
+	"sno":"1",
+	"degree":"b.tech",
+	"institute":"pragati",
+	"yop":"2020"
+
+
+	},
+	{
+      "sno":"2",
+	"degree":"intermidiate",
+	"institute":"narayna",
+	"yop":"2016"
+	},
+	{
+		"sno":"3",
+	"degree":"ssc",
+	"institute":"sri chaitanya",
+	"yop":"2014"
+	}
+],
+
+	"language":[
+
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"hindi"
+		},
+		{
+			"lang":"telugu"
+		}
+		]
+
+
+		}
+	
+
+

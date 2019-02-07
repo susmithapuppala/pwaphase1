@@ -1,0 +1,27 @@
+body{
+	background:aqua;
+
+}
+#maindiv{
+      background:pink;
+      display:flex;
+      justify-content: space-around;
+      margin:10%; 
+      border-radius:5%;
+    
+   
+}
+.subdiv{
+	background:white;
+	margin:3%;
+	border-radius: 5%;
+	text-align:center; 
+	box-shadow: 4px 4px 4px 4px;
+	width:50%;
+}
+img{
+	margin:5%;
+	border-radius: 4%;
+	height: 30vh;
+	width: 50;
+}
